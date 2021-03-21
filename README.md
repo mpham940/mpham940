@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Pham
-- 👀 I’m interested in data science and software development.
-- 🌱 I’m currently learning Python Data Science Libraries, SQL and Java
+- 👀 I’m interested in data science and software engineering.
+- 🌱 I’m currently learning Python Data Science Libraries, SQL and Java Object-oriented programming
 - 📫 Reach me through my email address: mpham940@gmail.com
 
 <!---
